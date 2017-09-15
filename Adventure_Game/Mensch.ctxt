@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Mensch
+comment1.params=pName\ pAD\ pHP\ pHPr\ pH\ pD\ pG\ pMvs\ pT\ pGe
+comment1.target=Mensch(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=2
