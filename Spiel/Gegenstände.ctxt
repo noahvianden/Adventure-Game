@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gegenst\u00E4nde()
+comment1.params=
+comment1.target=int\ getGewicht()
+comment2.params=neuGewicht
+comment2.target=void\ setGewicht(int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=neuName
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=int\ getGr\u00F6\u00DFe()
+comment6.params=neuGr\u00F6\u00DFe
+comment6.target=void\ setGr\u00F6\u00DFe(int)
+numComments=7
