@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Gegner
+comment1.params=pName\ pAD\ pHP\ pHPr\ pGe
+comment1.target=Gegner(java.lang.String,\ int,\ int,\ int,\ int)
+numComments=2

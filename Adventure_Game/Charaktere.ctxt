@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Charaktere
+comment1.params=pName\ pAD\ pHP\ pHPr\ pGe
+comment1.target=Charaktere(java.lang.String,\ int,\ int,\ int,\ int)
+numComments=2

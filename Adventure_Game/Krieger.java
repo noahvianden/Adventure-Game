@@ -1,4 +1,4 @@
-public class Krieger extends Mensch{
+public class Krieger extends Held{
     public int W;
     public int Wa;
     
