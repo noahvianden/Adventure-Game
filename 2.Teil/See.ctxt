@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=See()
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=neuName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=pHell
+comment3.target=void\ setHelligkeit(boolean)
+comment4.params=
+comment4.target=boolean\ getHelligkeit()
+comment5.params=pZug\u00E4nglich
+comment5.target=void\ setZug\u00E4nglichkeit(boolean)
+comment6.params=
+comment6.target=boolean\ getZug\u00E4nglichkeit()
+comment7.params=pGegenstand
+comment7.target=void\ setInhalt(Gegenst\u00E4nde)
+comment8.params=
+comment8.target=Gegenst\u00E4nde\ getInhalt()
+numComments=9

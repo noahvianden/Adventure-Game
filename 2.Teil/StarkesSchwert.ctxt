@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=pMonster\ pAW\ pGe\ pGr\ pName
+comment0.target=StarkesSchwert(boolean,\ int,\ int,\ int,\ java.lang.String)
+numComments=1
