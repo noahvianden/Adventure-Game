@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CommandWords()
+comment1.params=aString
+comment1.target=boolean\ isCommand(java.lang.String)
+numComments=2
