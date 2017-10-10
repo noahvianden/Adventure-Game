@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=pAW\ pGe\ pGr\ pName
+comment0.target=Gegenst\u00E4nde(int,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getGe()
+comment2.params=neuGe
+comment2.target=void\ setGe(int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=neuName
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=int\ getGr()
+comment6.params=neuGr
+comment6.target=void\ setGr(int)
+comment7.params=
+comment7.target=int\ getAW()
+comment8.params=neuAW
+comment8.target=void\ setAW(int)
+numComments=9

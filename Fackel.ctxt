@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=pMonster\ pAW\ pGe\ pGr\ pName\ pAB\ pEntz\ pIA
+comment0.target=Fackel(boolean,\ int,\ int,\ int,\ java.lang.String,\ int,\ boolean,\ boolean)
+numComments=1

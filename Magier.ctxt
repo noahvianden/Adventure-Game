@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=pName\ pAD\ pHP\ pHPr\ pH\ pD\ pG\ pMvs\ pT\ pGe\ pxPos\ pyPos\ pM\ pMr
+comment0.target=Magier(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=pM
+comment1.target=void\ setM(int)
+comment2.params=
+comment2.target=int\ getM()
+comment3.params=pMr
+comment3.target=void\ setMr(int)
+comment4.params=
+comment4.target=int\ getMr()
+numComments=5

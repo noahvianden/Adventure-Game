@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pMonster\ pAW\ pGe\ pGr\ pName\ pS\u00E4
+comment0.target=Essen(boolean,\ int,\ int,\ int,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getS\u00E4()
+comment2.params=neuS\u00E4
+comment2.target=void\ setS\u00E4(int)
+numComments=3
