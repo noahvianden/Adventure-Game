@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=pLeben\ pAngriffsschaden\ pName
+comment0.target=Gegner(int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ Bonusschaden()
+comment2.params=
+comment2.target=int\ Parrierbonus()
+comment3.params=
+comment3.target=int\ getLeben()
+comment4.params=neuLeben
+comment4.target=void\ setLeben(int)
+comment5.params=
+comment5.target=int\ getAS()
+comment6.params=neuAW
+comment6.target=void\ setAS(int)
+comment7.params=neuName
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getName()
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=firstWord\ secondWord
+comment0.target=Command(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getCommandWord()
+comment2.params=
+comment2.target=java.lang.String\ getSecondWord()
+comment3.params=
+comment3.target=boolean\ isUnknown()
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+numComments=5

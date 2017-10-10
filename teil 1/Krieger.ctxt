@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=pName\ pAD\ pHP\ pHPr\ pH\ pD\ pG\ pMvs\ pT\ pGe\ pxPos\ pyPos\ pW\ pWa
+comment0.target=Krieger(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=pW
+comment1.target=void\ setW(int)
+comment2.params=
+comment2.target=int\ getW()
+comment3.params=pWa
+comment3.target=void\ setWa(int)
+comment4.params=
+comment4.target=int\ getWa()
+numComments=5
