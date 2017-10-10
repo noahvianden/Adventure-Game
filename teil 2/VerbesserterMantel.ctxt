@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=pMonster\ pAW\ pGe\ pGr\ pName\ pSW
+comment0.target=VerbesserterMantel(boolean,\ int,\ int,\ int,\ java.lang.String,\ int)
+numComments=1

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=pName\ pAD\ pHP\ pHPr\ pH\ pD\ pG\ pMvs\ pT\ pGe\ pxPos\ pyPos\ pP\ pPr
+comment0.target=Schuetze(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=pP
+comment1.target=void\ setP(int)
+comment2.params=
+comment2.target=int\ getP()
+comment3.params=pPr
+comment3.target=void\ setPr(int)
+comment4.params=
+comment4.target=int\ getPr()
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Welt()
+comment1.params=x\ y\ pObjekt
+comment1.target=void\ setContent(int,\ int,\ SpielObjekte)
+comment2.params=x\ y
+comment2.target=SpielObjekte\ getContent(int,\ int)
+numComments=3
