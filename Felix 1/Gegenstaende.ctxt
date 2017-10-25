@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=pKlasse\ pAW\ pName\ pAnziehbar
+comment0.target=Gegenstaende(java.lang.String,\ int,\ java.lang.String,\ boolean)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment10.params=pKlasse
+comment10.target=void\ setKlasse(java.lang.String)
+comment2.params=neuName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=int\ getAW()
+comment4.params=neuAW
+comment4.target=void\ setAW(int)
+comment5.params=
+comment5.target=int\ getPreis()
+comment6.params=pPreis
+comment6.target=void\ setPreis(int)
+comment7.params=pAnziehbar
+comment7.target=void\ setAnziehbar(boolean)
+comment8.params=
+comment8.target=boolean\ getAnziehbar()
+comment9.params=
+comment9.target=java.lang.String\ getKlasse()
+numComments=11

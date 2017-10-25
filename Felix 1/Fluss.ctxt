@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fluss()
+comment1.params=pHell
+comment1.target=void\ setHelligkeit(boolean)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=neuName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=boolean\ getHelligkeit()
+comment5.params=pZugaenglich
+comment5.target=void\ setZugaenglichkeit(boolean)
+comment6.params=
+comment6.target=boolean\ getZugaenglichkeit()
+comment7.params=pGegner
+comment7.target=void\ setGegner(Gegner)
+comment8.params=
+comment8.target=LebendigeSpielObjekte\ getGegner()
+numComments=9
