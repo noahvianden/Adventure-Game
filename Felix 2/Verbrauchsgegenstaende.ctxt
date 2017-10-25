@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=pKlasse\ pAW\ pName\ pAB\ pEntz\ pAnziehbar
+comment0.target=Verbrauchsgegenstaende(java.lang.String,\ int,\ java.lang.String,\ int,\ boolean,\ boolean)
+comment1.params=
+comment1.target=int\ getAB()
+comment2.params=neuAB
+comment2.target=void\ setAnzahlBenutzungn(int)
+comment3.params=
+comment3.target=boolean\ istEntzuendbar()
+comment4.params=neuEntz
+comment4.target=void\ setEntzuendbarkeit(boolean)
+comment5.params=
+comment5.target=java.lang.String\ getKlasse()
+comment6.params=pKlasse
+comment6.target=void\ setKlasse(java.lang.String)
+numComments=7
