@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=pKlasse\ pAW\ pName\ pSW\ pAnziehbar\ pPreis\ pText
+comment0.target=Schutzmaentel(java.lang.String,\ int,\ java.lang.String,\ int,\ boolean,\ int,\ java.lang.String)
+numComments=1

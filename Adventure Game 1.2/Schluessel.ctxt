@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=pKlasse\ pAW\ pName\ pAnziehbar\ pID\ pPreis\ pText
+comment0.target=Schluessel(java.lang.String,\ int,\ java.lang.String,\ boolean,\ int,\ int,\ java.lang.String)
+numComments=1

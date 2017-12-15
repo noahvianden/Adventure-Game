@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pTextBegruessung\ pName
+comment0.target=Haendler(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getTextBegruessung()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=pGegenstand\ p
+comment3.target=void\ setWaren(Gegenstaende,\ int)
+numComments=4
